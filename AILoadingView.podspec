@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'AILoadingView'
+s.name = 'AILoadingView-Cocoapod'
 s.version = '1.0.0'
 s.license = 'MIT'
 s.summary = 'AIAnimationDemo-Cocoapod'
